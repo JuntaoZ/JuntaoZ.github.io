@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Jon Zeng
+title: Juntao
 email: juntao.zeng@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
     Juntao's new work interest. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: juntaozeng
+github_username:  JuntaoZ
 
 # Build settings
 markdown: kramdown
